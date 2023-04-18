@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Afzaa Atcha
 ===================================================================================================================================
 
-Aspiring Front End Developer
+Apprentice DevOps Engineer
 ----------------------------
 
-I was previously a teacher in a Secondary who left her job to become a student at The Open University studying towards a Diploma of Higher Eduction in Computing and IT (software route). Alongside my studies I have found my passion in learning Front End Development and am currently learning HTML/CSS and Javascript whilst also building projects on the side.
+I was previously a teacher in a Secondary who left her job to become a student at The Open University studying towards a Diploma of Higher Eduction in Computing and IT (software route). I am currently a DevOps Engineer Apprentice.
 
 * 🌍  I'm based in England
 * ✉️  You can contact me at [afzaacodes@gmail.com](mailto:afzaacodes@gmail.com)
-* 🧠  I'm learning HTML, CSS and Javascript
+* 🧠  I'm learning Python and Object Oriented Java
 
 <a href="https://www.twitter.com/afzaacodes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/afzaacodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
